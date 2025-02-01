@@ -1,6 +1,6 @@
 body {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  background-image: "heart.jpg";
+  background-image: url("heart.jpg");
   margin: 0;
   display: flex;
   justify-content: center;
