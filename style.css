@@ -13,10 +13,7 @@ body {
   display: flex;
   align-items: center;
   background-color: white;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  border-radius: 15px;
-  overflow: hidden;
-  max-width: 900px;
+
   width: 100%;
 }
 
@@ -56,7 +53,7 @@ body {
 }
 
 .yes-button {
-  background-color: #28a745;
+  background-color: #77b667;
   color: white;
 }
 
@@ -65,12 +62,12 @@ body {
 }
 
 .no-button {
-  background-color: #dc3545;
+  background-color: #e7939c;
   color: white;
 }
 
 .no-button:hover {
-  background-color: #c82333;
+  background-color: #c9646e;
 }
 
 .dancing-cat {
@@ -83,7 +80,7 @@ body {
 
 .try-again {
   display: none;
-  color: #d6336c;
+  color: #000000;
   font-size: 1.5rem;
   text-align: center;
 }
