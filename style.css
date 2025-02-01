@@ -75,8 +75,8 @@ body {
 
 /* Styling for the dancing cat GIF */
 .dancing-cat {
-  display: none;
-  position: fixed; /* Changed to fixed, so it stays visible */
+  display: none; /* Initially hide the entire container */
+  position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
