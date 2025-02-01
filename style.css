@@ -1,5 +1,5 @@
 body {
-  font-family: "Arial", sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   background-image: "heart.jpg";
   margin: 0;
   display: flex;
@@ -36,7 +36,7 @@ body {
 
 .content h1 {
   font-size: 2rem;
-  color: #d6336c;
+  color: #000000;
 }
 
 .buttons {
