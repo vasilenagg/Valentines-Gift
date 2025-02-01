@@ -10,3 +10,9 @@ function tryAgain() {
     tryAgainMessage.style.display = "none";
   }, 2000);
 }
+
+function showDancingCat() {
+  console.log("Yes button clicked");
+  document.querySelector(".container").style.display = "none";
+  document.querySelector(".dancing-cat").style.display = "block";
+}
